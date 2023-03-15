@@ -14,7 +14,7 @@ That will open a new page, and you'll be given an option to select a new owner f
 
 2) CLONE your fork to your local computer
 
-To do this, navigate in your terminal to an appropriate folder. We recommend you have an overall 'Flatiron' folder either in your documents or on your desktop.
+To do this, navigate in your terminal to an appropriate folder. I recommend you have an overall 'Data_Analytics' folder either in your documents or on your desktop.
 Once you're in the right place, you'll need to input the following command, replacing '[yourusername]' with your Github account:
 
   git clone https://github.com/[yourusername]/Learning-with-Jelly-Data-Analyst.git;
