@@ -31,12 +31,13 @@ Once you're in the right place, you'll need to input the following command, repl
 
 - Module 1: Intro to Data Analytics 
 - Module 2: Python Data Types
-- Module 3: Iterating through Data in Python 
-- Module 4: Python Packages for Data Analysis 
-- Module 5: Data Manipulation with Pandas 
-- Module 6: Statistics
-- Module 7: Data Visualization 
-- Module 8: SQL 
+- Module 3: Iterating through Data in Python (Lists)
+- Module 4: Iterating through Data in Python (Dictionaries) - on different platform (TBA)
+- Module 5: Python Packages for Data Analysis - on different platform (TBA)
+- Module 6: Data Manipulation with Pandas - on different platform (TBA)
+- Module 7: Statistics - on different platform (TBA)
+- Module 8: Data Visualization - on different platform (TBA)
+- Module 9: SQL - on different platform (TBA)
 
 
 
